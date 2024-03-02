@@ -1,0 +1,1 @@
+A comprehensive e-commerce platform that enables businesses to create and manage their online stores. It offers features such as product catalog management, secure payment processing, order tracking, and customer engagement tools.
